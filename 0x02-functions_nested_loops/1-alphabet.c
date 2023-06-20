@@ -1,12 +1,12 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * print_alphabet - Entry point
  * Return:0
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
-	char c='a'
+	char c='a';
 	do 
 	{
 		_putchar(c);
