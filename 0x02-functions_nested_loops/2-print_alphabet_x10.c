@@ -1,9 +1,5 @@
 #include "main.h"
 
-
-
-
-
 void print_alphabet_x10(void)
 {
 	int i = 1;
@@ -18,5 +14,5 @@ void print_alphabet_x10(void)
 		}
 		_putchar('\n');
 		i++;
-	}while (i <= 10);
+	} while (i <= 10);
 }
