@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * int _strlen - 
+ * _strlen - 
  * @s: int
  *
  * Return: nothing.
