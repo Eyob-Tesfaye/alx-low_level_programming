@@ -8,9 +8,15 @@
  * Return: nothing.
  */
 int _strlen(char *s)
-{
-	char a;
+{	
+	int i;
 
-	a = *s;
-	return(strlen(a));
+	i = 0;
+
+	while (s[i] != '\0')
+	{
+		i++;
+	}
+
+	return (i);
 }
