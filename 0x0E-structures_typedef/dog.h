@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /**
  * struct dog - a dog's basic info
  * @name: First member
